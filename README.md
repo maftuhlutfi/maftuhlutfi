@@ -10,6 +10,8 @@ I am currently working on my own simple project with MERN stack and still learni
  [http://dollafinancing.live-website.com/](http://dollafinancing.live-website.com/)
  - King's Clothing
  https://kings-clothing-app.herokuapp.com/
+ - Mengenal Bentuk Game
+ https://maftuhlutfi.github.io/mengenal-bentuk-game/
  - Todo App
  [https://maftuhlutfi.github.io/react-todo-app/](https://maftuhlutfi.github.io/react-todo-app/)
  - Demit Answers (Peter Answers Game Local Version)
