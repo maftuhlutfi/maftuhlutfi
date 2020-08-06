@@ -1,5 +1,5 @@
 ## Hello there 👋
-My name Muchamad Lutfi Maftuh. You can call me Maftuh. I am now 18 years old. I am a student majoring in information technology at Yogyakarta State University.
+My name Muchamad Lutfi Maftuh. You can call me Maftuh. I am now 18 years old. I am a student majoring in Information Technology at Yogyakarta State University.
 
 ### My activity ⚽
 I am currently working on my own simple project with MERN stack and still learning about that. I also often get jobs to create logo and brand design with Adobe Photoshop.
@@ -27,7 +27,7 @@ I am currently working on my own simple project with MERN stack and still learni
  - 🇪🇸 I am a huge fans of FC Barcelona 
  - 🏃 Doing exercise with jogging and football
  - 🎬 Movie and K-Drama addict 
- - 🦥 Rarely turn off the laptop
+ - 💻 Rarely turn off the laptop
  - 🍜 I love indomie noodle
  
 ### Reach me
