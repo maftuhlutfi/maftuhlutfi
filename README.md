@@ -7,7 +7,7 @@ I am currently working on my own simple project with MERN stack and still learni
 ### My project ✔️
 
  - Dolla Financial Website (client modified 😫)
- [http://dollafinancing.live-website.com/](http://dollafinancing.live-website.com/)
+ [http://dollafinancing.live-website.com/](https://dollafinancial.com/)
  - King's Clothing
  https://kings-clothing-app.herokuapp.com/
  - Mengenal Bentuk Game
