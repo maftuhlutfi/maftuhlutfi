@@ -1,8 +1,8 @@
 ## Hello there 👋
-My name Muchamad Lutfi Maftuh. You can call me Maftuh. I am now 19 years old. I am a student majoring in Information Technology at Yogyakarta State University.
+My name Muchamad Lutfi Maftuh. You can call me Maftuh. I am 21 years old and a student majoring in Information Technology at Yogyakarta State University. I am a Front End Developer with 2+ years of proven experience in an freelance, startup, and corporate environment. Highly skilled in Javascript/Typescript, front end frameworks, CSS framework, and UI component. Have built and delivered solutions used by overseas and domestic users.
 
 ### My activity ⚽
-I am currently working on my own simple project with MERN stack and still learning about that. I also often get jobs to create logo and brand design with Adobe Photoshop.
+I am currently working on freelance project and my own simple project with Javascript Framework (Next.js) and still learning about new technology. I also often get jobs to create UI/UX design and other Graphics Design.
 
 ### Latest project ✔️
 Next.js, Tailwind CSS, and Headless CMS (Sanity & Prismic) / API:
@@ -30,3 +30,4 @@ Next.js, Chakra UI, and API Integration:
  
 ### Reach me
  - Instagram	: [https://www.instagram.com/mafskuy_/](https://www.instagram.com/mafskuy_/)
+ - Dribble      : [https://dribbble.com/playmakernyomlo](https://dribbble.com/playmakernyomlo)
