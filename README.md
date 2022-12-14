@@ -4,24 +4,20 @@ My name Muchamad Lutfi Maftuh. You can call me Maftuh. I am now 19 years old. I 
 ### My activity ⚽
 I am currently working on my own simple project with MERN stack and still learning about that. I also often get jobs to create logo and brand design with Adobe Photoshop.
 
-### My project ✔️
+### Latest project ✔️
+Next.js, Tailwind CSS, and Headless CMS (Sanity & Prismic) / API:
+- https://kanon-arkitektar.vercel.app/
+- https://debut.vercel.app/
+- https://www.mtsn9sleman.sch.id/
+- http://www.xn--slfd.id/ (with translation feature)
+- https://umkmpare.vercel.app/
+- https://lootd-admin.vercel.app/
+- https://joyout-app.vercel.app/ (with translation feature)
 
- - Dolla Financial Website (client modified 😫)
- [http://dollafinancing.live-website.com/](https://dollafinancial.com/)
- - King's Clothing
- https://kings-clothing-app.herokuapp.com/
- - Mengenal Bentuk Game
- https://maftuhlutfi.github.io/mengenal-bentuk-game/
- - Todo App
- [https://maftuhlutfi.github.io/react-todo-app/](https://maftuhlutfi.github.io/react-todo-app/)
- - Demit Answers (Peter Answers Game Local Version)
- [https://maftuhlutfi.github.io/react-demit-answers/](https://maftuhlutfi.github.io/react-demit-answers/)
- - Contacts Deck
- [https://maftuhlutfi.github.io/react-simple-contacts-deck/](https://maftuhlutfi.github.io/react-simple-contacts-deck/)
- - Test Password
- [https://maftuhlutfi.github.io/react-test-password-zxcvbn/](https://maftuhlutfi.github.io/react-test-password-zxcvbn/)
- - Simple Cart
- [https://maftuhlutfi.github.io/react-redux-simple-shop-cart-app/](https://maftuhlutfi.github.io/react-redux-simple-shop-cart-app/)
+
+Next.js, Chakra UI, and API Integration:
+- https://vocasia-frontend-web.vercel.app/
+
 
 ### Ordinary facts 😂
 
