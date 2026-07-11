@@ -40,4 +40,21 @@
 
 ---
 
-## 🎮 Interactive Game (Coming Soon)
+<div align="center">
+  <img src="aquarium.svg" alt="Digital Pixel Aquarium" width="100%" />
+</div>
+
+<h3 align="center">🐠 Interactive Pixel Aquarium 🌿</h3>
+<p align="center">Akuarium ini hidup! Siapapun bisa menambahkan ikan atau tumbuhan secara *real-time*.</p>
+
+<div align="center">
+  <a href="https://github.com/maftuhlutfi/maftuhlutfi/issues/new?title=Aquarium+%7C+Add+Fish&body=Please+do+not+change+the+title.+Just+click+Submit+New+Issue!">
+    <img src="https://img.shields.io/badge/🐟_Add_Fish-0059b3?style=for-the-badge" alt="Add Fish" />
+  </a>
+  <a href="https://github.com/maftuhlutfi/maftuhlutfi/issues/new?title=Aquarium+%7C+Add+Plant&body=Please+do+not+change+the+title.+Just+click+Submit+New+Issue!">
+    <img src="https://img.shields.io/badge/🌿_Add_Plant-228B22?style=for-the-badge" alt="Add Plant" />
+  </a>
+  <a href="https://github.com/maftuhlutfi/maftuhlutfi/issues/new?title=Aquarium+%7C+Add+Decoration&body=Please+do+not+change+the+title.+Just+click+Submit+New+Issue!">
+    <img src="https://img.shields.io/badge/🐚_Add_Deco-FF8C00?style=for-the-badge" alt="Add Decoration" />
+  </a>
+</div>
