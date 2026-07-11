@@ -13,7 +13,7 @@
   <a href="https://maftuhlutfi.my.id">
     <img src="https://img.shields.io/badge/Portfolio-maftuhlutfi.my.id-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:playmakernyomlo@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/maftuhlutfi">
