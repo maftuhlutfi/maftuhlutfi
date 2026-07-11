@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://maftuhlutfi.my.id/wp-content/uploads/2026/07/homepage.gif" width="100%" alt="Maftuh Lutfi Homepage Portfolio" style="border-radius: 10px; margin-bottom: 20px;" />
-</div>
+</div> -->
 
 <h1 align="center">Hi there, I'm Maftuh Lutfi 👋</h1>
 <h3 align="center">Web Developer | WordPress Expert | Graphic Designer</h3>
